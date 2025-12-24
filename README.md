@@ -2,8 +2,8 @@ Amazon Sales Analysis – Power BI Dashboard
 
 📌 Executive Summary
 
-This project presents an end-to-end Amazon Sales Analysis using Power BI to evaluate sales performance, product demand, and regional trends.
-The dashboard is designed to help business stakeholders monitor revenue, identify growth opportunities, and make data-driven decisions.
+This project delivers an end-to-end Amazon Sales Analysis using Power BI to evaluate sales performance, product demand, and regional trends.
+The dashboard is built to support business stakeholders in monitoring revenue, identifying growth opportunities, and making data-driven decisions.
 
 🎯 Business Objectives
 
@@ -23,14 +23,14 @@ How is the business performing over time?
 
 🛠️ Tools & Technologies
 
-Power BI Desktop – Data modeling & visualization
+Power BI Desktop – Data modeling and visualization
 Power Query – Data cleaning and transformation
 DAX – KPI calculations and measures
 CSV / Excel – Source dataset
 
 📂 Dataset Overview
 
-The dataset includes transactional sales data with the following attributes:
+The dataset contains transactional Amazon sales data with the following attributes:
 Order ID
 Order Date
 Product Category
@@ -38,7 +38,7 @@ Sales Amount
 Quantity Sold
 Region / Country
 
-⚠️ Dataset is used strictly for educational and portfolio purposes.
+⚠️ The dataset is used strictly for educational and portfolio purposes.
 
 📊 Key KPIs
 
@@ -51,23 +51,26 @@ Monthly Sales Trend – Growth and seasonality insights
 
 📈 Dashboard Structure
 
-The Power BI dashboard consists of the following pages:
-Sales Overview
+The Power BI dashboard is organized into the following pages:
+
+1️⃣ Sales Overview:
 High-level KPIs and revenue summary
-Category Performance
+
+2️⃣ Category Performance:
 Sales contribution by product category
-Regional Sales Analysis
+
+3️⃣ Regional Sales Analysis:
 Region-wise sales distribution
-Time-Based Trends
+
+4️⃣ Time-Based Trends:
 Monthly and yearly sales performance
 
 🖼️ Dashboard Preview
 
 Dashboard screenshots are available in the
-📁 powerbi/screenshots/ folder for quick review.
+📁 powerbi/screenshots/ folder for quick visual reference.
 
 📁 Project Structure
-
 amazon-sales-analysis/
 │── README.md
 │── powerbi/
@@ -76,28 +79,21 @@ amazon-sales-analysis/
 │── data/
 │   └── amazon_sales.csv
 
-💡 Key Insights (Example)
+💡 Key Insights (Sample)
 
-Certain product categories contribute a disproportionately high share of revenue
-Sales peak during specific months, indicating seasonality
-A small number of regions drive the majority of total sales
-(Insights may vary based on dataset.)
+A small number of product categories contribute a disproportionately high share of total revenue
+Sales peak during specific months, indicating clear seasonal patterns
+A limited set of regions drive the majority of overall sales
+(Insights may vary based on the dataset used.)
 
 🚀 Business Impact
 
 This dashboard enables:
-Faster performance tracking
-Better inventory and category planning
-Improved regional strategy decisions
-Clear visibility into sales trends
+Faster and clearer performance tracking
+Improved inventory and category planning
+Better regional sales strategy decisions
+Enhanced visibility into sales trends and patterns
 
 👩‍💻 Author
 Bhargavi
 Aspiring Data Analyst | Business Analyst
-
-🔥 WHY THIS VERSION IS STRONG
-
-Reads like a business document, not a college project
-Clearly separates business goals, KPIs, insights, and impact
-Recruiters can evaluate you without opening Power BI
-Works for Data Analyst + Business Analyst roles
